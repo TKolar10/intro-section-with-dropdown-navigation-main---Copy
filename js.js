@@ -18,7 +18,7 @@ const mobileFeaturesExpend = `<ul class="mobile__inner-list-features">
 
 const mobileCompanyExpend = `<ul class="mobile__inner-list-company">
 <li class="mobile__inner-item">History</li>
-<li class="mobile__inner-item">Out Team</li>
+<li class="mobile__inner-item">Our Team</li>
 <li class="mobile__inner-item">Blog</li>
 </ul>`;
 const backdrop = `<div onClick="backdropClose()" class="nav__backdrop"></div>`;
